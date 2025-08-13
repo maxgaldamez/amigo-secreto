@@ -1,5 +1,4 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-let amigos = []
+
 let amigos = [];//Array para almacenar los nombres
 
 //Funcion para agregar nombres desde el boton anadir
